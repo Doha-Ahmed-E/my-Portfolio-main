@@ -1,0 +1,7 @@
+name: Doha Ahmed
+phone: 01557681506
+email: dohaamed22@gmail.com
+
+GitHub: https://github.com/Doha-Ahmed-E/my-Portfolio-main.git
+
+deployed website:  https://doha-ahmed-e.github.io/my-Portfolio-main/
